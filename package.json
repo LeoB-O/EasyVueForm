@@ -1,0 +1,22 @@
+{
+  "name": "vurform",
+  "version": "1.0.0",
+  "description": "Build an easy form with plain js object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "form",
+    "component"
+  ],
+  "author": "LeoB_O",
+  "license": "MIT",
+  "dependencies": {
+    "element-ui": "^2.13.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  }
+}
